@@ -1,0 +1,32 @@
+*{
+    font-family: Helvetica;
+}
+.heading1 h1{
+    color: #375e97;
+    border-bottom: dotted 5px;
+    font-size: 2em;
+    font-family: Georgia;
+}
+.heading1 p{
+    color: #999999 ;
+}
+.heading2{
+    font-family: Italic;
+    font-size: 1.5em ;
+}
+
+ul{
+    border: 5px solid  purple;
+    background-color:  #eeeeee;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+ul li a{
+    color: #82b8de;
+
+}
+ul li a:hover{
+    color: #2b99e6;
+    text-decoration: none;
+}
